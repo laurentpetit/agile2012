@@ -7,7 +7,7 @@ Le fichier Mixit12.pdf contient les slides (maigrelets) mais avec les urls vers 
 
 L'atelier en lui-même a été le développement à la REPL du jeu de la vie, avec un traitement orienté REPL et workflow de travail avec Counterclockwise, le plugin Clojure pour Eclipse [1].
 
-En support de présentation de l'atelier, nous avions ce script https://gist.github.com/2491305 . Vous pouvez l'utiliser comme scénario de construction pas à pas.
+En support de présentation de l'atelier, nous avions ce script https://gist.github.com/4038525 . Vous pouvez l'utiliser comme scénario de construction pas à pas.
 
 D'autres ressources sur le jeu de la vie en Clojure :
 * blog de Christophe Grand : http://clj-me.cgrand.net/2011/08/19/conways-game-of-life/
